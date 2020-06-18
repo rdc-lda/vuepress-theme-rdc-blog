@@ -15,7 +15,7 @@
           >
             <img
               :src="$themeConfig.logo"
-              height="70px"
+              height="40px"
             >
           </div>
         </router-link>
